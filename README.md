@@ -1,7 +1,7 @@
 # Focus
 A Slow Motion Mod For Gorilla tag
 
-Hold B to Start Slow Motion
+Hold B to Slow Down Time
 
 ShowCase: https://youtu.be/5rblyuESBuc
 
